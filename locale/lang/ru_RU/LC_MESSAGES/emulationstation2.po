@@ -1178,7 +1178,7 @@ msgstr "Очистка"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "СБРОС СТАТИСТИКИ ИСП. ГЕЙМЛИСТОВ"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Сбросить значения о времени игры, кол-ве запусков и дате посл. запуска "
 "(GameTime, PlayCount, LastPlayed)."
@@ -3070,7 +3070,7 @@ msgstr "ОБНОВИТЕ СПИСОК ИГР, ЧТОБЫ ПРИМЕНИТЬ ИЗ
 msgid "Loading system config..."
 msgstr "Загрузка системных настроек..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "СОХРАНЕНИЕ МЕТАДАННЫХ. ПОЖАЛУЙСТА ПОДОЖДИТЕ..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

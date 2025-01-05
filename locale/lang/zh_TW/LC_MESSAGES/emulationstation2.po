@@ -1171,7 +1171,7 @@ msgstr "清理中"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "重設遊戲清單使用記錄"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 
 msgid "RESET FILE EXTENSIONS"
@@ -3033,7 +3033,7 @@ msgstr "更新遊戲清單來套用變更。"
 msgid "Loading system config..."
 msgstr "正在載入系統設定..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "正在儲存中繼資料。請稍後..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

@@ -1178,7 +1178,7 @@ msgstr "Čistenie"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "Vynulovať údaje použitia zoznamov"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr "Vynulovať hodnoty metadát hracieho času, počtu hraní a poslednej hry."
 
 msgid "RESET FILE EXTENSIONS"
@@ -3070,7 +3070,7 @@ msgstr "Aktualizujte zoznamy hier na použitie zmien."
 msgid "Loading system config..."
 msgstr "Načítavam systémové nastavenie..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "Ukladanie metadát. Prosím, čakajte..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

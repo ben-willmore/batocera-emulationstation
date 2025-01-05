@@ -1184,7 +1184,7 @@ msgstr "Netejant"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "RESTABLEIX LES DADES D'ÚS DE LES LISTES DE JOCS"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Restableix els valors de les metadades GameTime, PlayCount i LastPlayed."
 
@@ -3086,7 +3086,7 @@ msgstr "ACTUALITZI LES GAMELISTS PER A APLICAR ELS CANVIS."
 msgid "Loading system config..."
 msgstr "Carregant configuració de sistema..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "DESANT METADADES. SI US PLAU ESPERI..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

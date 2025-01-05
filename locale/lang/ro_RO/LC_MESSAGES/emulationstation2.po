@@ -1183,7 +1183,7 @@ msgstr "Se curăță"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "RESETEAZĂ DATELE STATISTICE DIN LISTELE DE JOCURI"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Resetează valorile pentru metadatele timpului de joc, numărul de jocuri și "
 "jucat ultima dată."
@@ -3089,7 +3089,7 @@ msgstr "ACTUALIZEAZĂ LISTELE DE JOCURI PENTRU A APLICA MODIFICĂRILE."
 msgid "Loading system config..."
 msgstr "Se încarcă configurația de sistem..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "SE SALVEAZĂ METADATELE. TE ROG AȘTEAPTĂ..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

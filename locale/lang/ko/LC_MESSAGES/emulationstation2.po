@@ -1172,7 +1172,7 @@ msgstr "지우기 중"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "게임목록 데이터 재설정"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr "게임시간, 재생횟수, 마지막으로 재생한 메타데이터의 값을 재설정합니다."
 
 msgid "RESET FILE EXTENSIONS"
@@ -3054,7 +3054,7 @@ msgstr "변경 사항을 적용하려면 게임목록을 업데이트하세요."
 msgid "Loading system config..."
 msgstr "시스템 구성 불러오는 중..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "메타데이터를 저장 중입니다. 잠시만 기다려 주세요..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

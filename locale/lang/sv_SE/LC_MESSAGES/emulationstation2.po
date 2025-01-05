@@ -1174,7 +1174,7 @@ msgstr "Rensar"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "ÅTERSTÄLL SPELLISTORS ANVÄNDARDATA"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr "Nollställ värden för metadata av GameTime, PlayCount och LastPlayed."
 
 msgid "RESET FILE EXTENSIONS"
@@ -3067,7 +3067,7 @@ msgstr "UPPDATERA SPELLISTOR FÖR ATT VERKSTÄLLA ÄNDRINGAR."
 msgid "Loading system config..."
 msgstr "Laddar systemkonfiguration..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "SPARAR METADATA. VÄNTA..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

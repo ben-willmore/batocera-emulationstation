@@ -1185,7 +1185,7 @@ msgstr "Limpiando"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "RESTABLECER DATOS DE USO DE LISTAS DE JUEGOS"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Restablece los valores de los metadatos GameTime (Tiempo de juego), "
 "PlayCount (Recuento de partidas) y LastPlayed (Jugado por última vez)."
@@ -3091,7 +3091,7 @@ msgstr "ACTUALIZAR LISTAS DE JUEGOS PARA APLICAR LOS CAMBIOS."
 msgid "Loading system config..."
 msgstr "Cargando configuración del sistema..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "GUARDANDO METADATOS. POR FAVOR, ESPERE..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

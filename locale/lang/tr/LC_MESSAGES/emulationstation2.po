@@ -1178,7 +1178,7 @@ msgstr "Temizleniyor"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "OYUN KULLANIM LİSTESİNİ SIFIRLA"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Oyun Süresi, Oynatma Sayısı ve Son Oynanan meta verilerinin değerlerini "
 "sıfırlayın."
@@ -3075,7 +3075,7 @@ msgstr "DEĞİŞİKLİKLERİ UYGULAMAK İÇİN OYUN LİSTELERİNİ GÜNCELLE."
 msgid "Loading system config..."
 msgstr "Sistem yapılandırması yükleniyor..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "METADATA LAR KAYDEDİLİYOR. LÜTFEN BEKLEYİNİZ..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

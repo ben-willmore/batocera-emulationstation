@@ -1209,7 +1209,7 @@ msgstr "تنظيف"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "إعادة تعيين بيانات استخدام قوائم الألعاب"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "إعادة تعيين قيم وقت اللعبة وعدد مرات اللعب والبيانات الوصفية لآخر مرة تم "
 "تشغيلها."
@@ -3104,7 +3104,7 @@ msgstr "قم بتحديث قائمة الألعاب لتطبيق التغيير�
 msgid "Loading system config..."
 msgstr "جار تحميل إعدادات النظام..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "جار حفظ البيانات الوصفية, المرجو الإنتظار..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

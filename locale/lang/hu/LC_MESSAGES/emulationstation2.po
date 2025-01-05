@@ -1180,7 +1180,7 @@ msgstr "Tisztítás"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "A JÁTÉKLISTÁK HASZNÁLATI ADATAINAK VISSZAÁLLÍTÁSA"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr "Állítsa vissza a GameTime, PlayCount és LastPlayed metaadatok értékét."
 
 msgid "RESET FILE EXTENSIONS"
@@ -3084,7 +3084,7 @@ msgstr "FRISSÍTSE A JÁTÉKLISTÁKAT A MÓDOSÍTÁSOK ALKALMAZÁSÁHOZ."
 msgid "Loading system config..."
 msgstr "Rendszer konfiguráció betöltése..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "METAADAT MENTÉSE. VÁRJ..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"

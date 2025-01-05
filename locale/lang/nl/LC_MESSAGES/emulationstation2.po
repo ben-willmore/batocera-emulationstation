@@ -1184,7 +1184,7 @@ msgstr "Opruimen"
 msgid "RESET GAMELISTS USAGE DATA"
 msgstr "RESET SPELLIJSTEN GEBRUIKSGEGEVENS"
 
-msgid "Reset values of GameTime, PlayCount and LastPlayed metadatas."
+msgid "Reset values of GameTime, PlayCount and LastPlayed metadata."
 msgstr ""
 "Reset waarden van \"Speeltijd, Aantal keer gespeeld en Laatst gespeeld\" "
 "metadata."
@@ -3089,7 +3089,7 @@ msgstr "UPDATE DE SPELLIJSTEN OM WIJZIGINGEN TOE TE PASSEN."
 msgid "Loading system config..."
 msgstr "Systeemconfiguratie wordt geladen..."
 
-msgid "SAVING METADATAS. PLEASE WAIT..."
+msgid "SAVING METADATA. PLEASE WAIT..."
 msgstr "METADATAS OPSLAAN. WACHT ALSTUBLIEFT..."
 
 msgid "THE EMULATOR EXITED UNEXPECTEDLY"
