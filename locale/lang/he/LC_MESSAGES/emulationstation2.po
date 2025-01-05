@@ -2001,7 +2001,7 @@ msgid "Shutdown without saving metadata."
 msgstr ""
 
 msgid "REALLY SHUTDOWN WITHOUT SAVING METADATA?"
-msgstr ""
+msgstr "בטוח לכבות בלי לשמור METADATA"
 
 msgid "QUIT EMULATIONSTATION"
 msgstr "יציאה מהאימולטור"
@@ -4027,6 +4027,3 @@ msgstr ""
 
 #~ msgid "ENABLE VIDEO AUDIO"
 #~ msgstr "הפיכת שמע וידאו לזמין"
-
-#~ msgid "REALLY SHUTDOWN WITHOUT SAVING METADATA?"
-#~ msgstr "בטוח לכבות בלי לשמור METADATA"
